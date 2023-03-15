@@ -1,0 +1,43 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+    box-sizing: border-box;
+    color: #112B3C;
+}
+
+body{
+    margin: 0;
+}
+
+header{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+.container{
+    width: 1200px;
+    margin: auto;
+}
+
+.header{
+    width: 100%;
+    background-color: #112B3C;
+}
+
+.header_name{
+    position: absolute;
+    left: 0;
+    color: #EFEFEF;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.icon{
+    position: absolute;
+    right: 0;
+}

@@ -1,0 +1,67 @@
+table{
+    font-size: 20px;
+    border-spacing: 0;
+    width: 100%;
+}
+
+tr{
+    background-color: #efefef;
+    width: 100%;
+}
+
+th{
+    text-align: left;
+    padding: 13px;
+    background-color: #fff;
+}
+
+td{
+    padding: 13px;
+}
+
+td:first-child{
+    width: 3%;
+}
+
+option{
+
+    font-family: 'Montserrat';
+}
+
+.teacher_name{
+    font-size: 36px;
+    margin-top: 40px;
+}
+
+.lesson{
+    margin: 24px 0;
+    font-size: 36px;
+}
+
+.btn{
+    background-color: #efefef;
+    border: none;
+    color: #112B3C;
+    font-size: 20px;
+    border-radius: 30px;
+    padding: 8px 19px;
+}
+
+.group_filter{
+    display: flex;
+    font-size: 24px;
+    align-items: center;
+    margin: 30px 0;
+}
+
+.group{
+    margin: 0 10px;
+}
+
+.group_link {
+    font-size: 24px;
+    border: none;
+    background-color: white;
+}
+
+

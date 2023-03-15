@@ -1,0 +1,52 @@
+.form_registration{
+    width: 400px;
+    margin: auto;
+    margin-top: 100px;
+    padding: 20px auto;
+    display: flex;
+    flex-direction: column;
+    border-radius: 30px;
+    border: 1px solid;
+    background-color: #EFEFEF;
+}
+
+.registration_title{
+    font-weight: 400;
+    font-size: 24px;
+    margin: 19px auto 16px;
+}
+
+.input{
+    width: 300px;
+    height: 40px;
+    border-radius: 30px;
+    border: none;
+    margin: 16px auto;
+    padding-left: 20px;
+    font-weight: 400;
+    font-size: 20px;
+    color: #112B3C;
+}
+
+.btn{
+    background-color: #112B3C;
+    border: none;
+    color: #EFEFEF;
+    font-size: 20px;
+    border-radius: 30px;
+    padding: 8px 19px;
+}
+
+.btn_reg{
+    margin: 16px auto;
+}
+
+.btn_otm{
+    margin: 0 auto 20px;
+}
+
+.pass_log{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}

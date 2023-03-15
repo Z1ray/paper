@@ -1,0 +1,30 @@
+.student_group{
+    margin: 24px 0;    
+    font-size: 36px;
+}
+
+table{
+    font-size: 20px;
+    border-spacing: 0;
+    width: 100%;
+    margin-top: 50px;
+}
+
+tr{
+    background-color: #efefef;
+    width: 100%;
+}
+
+th{    
+    text-align: left;
+    padding: 13px;
+    background-color: #fff;
+}
+
+td{
+    padding: 13px;
+}
+
+td:first-child{
+    width: 3%;
+}
